@@ -280,6 +280,2031 @@
         "name": "BlueWagon4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov61",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov69",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov70",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov71",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov72",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov73",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alba_brasov75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alba_brasov75",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj-alba60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj-alba60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite61",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite69",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite70",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite71",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite72",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite73",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite75",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite76",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite77.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite77",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite78.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite78",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite79.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite79",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite80",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite81.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite81",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite82.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite82",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite83.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite83",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite84",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite85.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite85",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite86.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite86",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite87",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite88.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite88",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite89.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite89",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite90.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite90",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite91.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite91",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite92.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite92",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite93.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite93",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite94.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite94",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite95.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite95",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite96.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite96",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite97.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite97",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite98.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite98",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite99.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite99",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -294,6 +2319,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/scena1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/harta1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/cumpara_bilet"
     }
   ],
   "externalEvents": [],
