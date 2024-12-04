@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.546875,
+    "zoomFactor": 0.46331118245139885,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,15 +28,49 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 718,
+      "height": 715,
       "keepRatio": true,
       "layer": "",
       "name": "cluj_alba",
       "persistentUuid": "a51b0986-3ac4-4b8a-ba17-1393a7001553",
       "width": 1279,
-      "x": 2,
-      "y": 1,
+      "x": 1,
+      "y": 0,
       "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 150,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoubleChevronArrowRight",
+      "persistentUuid": "9eb4e595-44f6-485b-a9bb-886733f1f919",
+      "width": 150,
+      "x": 1068,
+      "y": 57,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 74,
+      "keepRatio": true,
+      "layer": "",
+      "name": "km",
+      "persistentUuid": "b3344d51-2919-448b-999a-802f31e2dcb3",
+      "width": 163,
+      "x": 53,
+      "y": 72,
+      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -60,11 +94,11 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.1,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba",
+                  "image": "cluj_alba",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -84,11 +118,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -100,7 +134,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba2",
+                  "image": "cluj_alba2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -120,11 +154,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -136,7 +170,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba3",
+                  "image": "cluj_alba3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -156,11 +190,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -172,7 +206,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba4",
+                  "image": "cluj_alba4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -192,11 +226,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -208,7 +242,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba5",
+                  "image": "cluj_alba5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -228,11 +262,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -244,7 +278,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba6",
+                  "image": "cluj_alba6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -264,11 +298,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -280,7 +314,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba7",
+                  "image": "cluj_alba7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -300,11 +334,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -316,7 +350,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba8",
+                  "image": "cluj_alba8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -336,11 +370,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -352,7 +386,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba9",
+                  "image": "cluj_alba9",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -372,11 +406,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -388,7 +422,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba10",
+                  "image": "cluj_alba10",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -408,11 +442,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -424,7 +458,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba11",
+                  "image": "cluj_alba11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -444,11 +478,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -460,7 +494,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba12",
+                  "image": "cluj_alba12",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -480,11 +514,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -496,7 +530,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba13",
+                  "image": "cluj_alba13",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -516,11 +550,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -532,7 +566,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba14",
+                  "image": "cluj_alba14",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -552,11 +586,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -568,7 +602,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba15",
+                  "image": "cluj_alba15",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -588,11 +622,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -604,7 +638,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba16",
+                  "image": "cluj_alba16",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -624,11 +658,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -640,7 +674,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba17",
+                  "image": "cluj_alba17",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -660,11 +694,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -676,7 +710,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba18",
+                  "image": "cluj_alba18",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -696,11 +730,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -712,7 +746,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba19",
+                  "image": "cluj_alba19",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -732,11 +766,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -748,7 +782,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba20",
+                  "image": "cluj_alba20",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -768,11 +802,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -784,7 +818,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba21",
+                  "image": "cluj_alba21",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -804,11 +838,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -820,7 +854,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba22",
+                  "image": "cluj_alba22",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -840,11 +874,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -856,7 +890,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba23",
+                  "image": "cluj_alba23",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -876,11 +910,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -892,7 +926,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba24",
+                  "image": "cluj_alba24",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -912,11 +946,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -928,7 +962,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba25",
+                  "image": "cluj_alba25",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -948,11 +982,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -964,7 +998,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba26",
+                  "image": "cluj_alba26",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -984,11 +1018,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1000,7 +1034,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba27",
+                  "image": "cluj_alba27",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1020,11 +1054,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1036,7 +1070,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba28",
+                  "image": "cluj_alba28",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1056,11 +1090,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1072,7 +1106,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba29",
+                  "image": "cluj_alba29",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1092,11 +1126,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1108,7 +1142,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba30",
+                  "image": "cluj_alba30",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1128,11 +1162,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1144,7 +1178,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba31",
+                  "image": "cluj_alba31",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1164,11 +1198,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1180,7 +1214,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba32",
+                  "image": "cluj_alba32",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1200,11 +1234,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1216,7 +1250,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba33",
+                  "image": "cluj_alba33",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1236,11 +1270,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1252,7 +1286,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba34",
+                  "image": "cluj_alba34",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1272,11 +1306,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1288,7 +1322,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba35",
+                  "image": "cluj_alba35",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1308,11 +1342,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1324,7 +1358,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba36",
+                  "image": "cluj_alba36",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1344,11 +1378,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1360,7 +1394,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba37",
+                  "image": "cluj_alba37",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1380,11 +1414,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1396,7 +1430,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba38",
+                  "image": "cluj_alba38",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1416,11 +1450,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1432,7 +1466,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba39",
+                  "image": "cluj_alba39",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1452,11 +1486,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1468,7 +1502,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba40",
+                  "image": "cluj_alba40",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1488,11 +1522,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1504,7 +1538,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba41",
+                  "image": "cluj_alba41",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1524,11 +1558,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1540,7 +1574,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba42",
+                  "image": "cluj_alba42",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1560,11 +1594,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1576,7 +1610,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba43",
+                  "image": "cluj_alba43",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1596,11 +1630,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1612,7 +1646,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba44",
+                  "image": "cluj_alba44",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1632,11 +1666,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1648,7 +1682,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba45",
+                  "image": "cluj_alba45",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1668,11 +1702,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1684,7 +1718,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba46",
+                  "image": "cluj_alba46",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1704,11 +1738,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1720,7 +1754,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba47",
+                  "image": "cluj_alba47",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1740,11 +1774,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1756,7 +1790,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba48",
+                  "image": "cluj_alba48",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1776,11 +1810,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1792,7 +1826,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba49",
+                  "image": "cluj_alba49",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1812,11 +1846,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1828,7 +1862,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba50",
+                  "image": "cluj_alba50",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1848,11 +1882,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1864,7 +1898,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba51",
+                  "image": "cluj_alba51",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1884,11 +1918,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1900,7 +1934,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba52",
+                  "image": "cluj_alba52",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1920,11 +1954,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1936,7 +1970,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba53",
+                  "image": "cluj_alba53",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1956,11 +1990,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -1972,7 +2006,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba54",
+                  "image": "cluj_alba54",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1992,11 +2026,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -2008,7 +2042,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba55",
+                  "image": "cluj_alba55",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2028,11 +2062,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -2044,7 +2078,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba56",
+                  "image": "cluj_alba56",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2064,11 +2098,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -2080,7 +2114,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba57",
+                  "image": "cluj_alba57",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2100,11 +2134,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -2116,7 +2150,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba58",
+                  "image": "cluj_alba58",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2136,11 +2170,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -2152,7 +2186,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba59",
+                  "image": "cluj_alba59",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2172,11 +2206,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -2188,7 +2222,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cluj-alba60",
+                  "image": "cluj_alba60",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2208,11 +2242,11 @@
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 0
                       },
                       {
-                        "x": 960,
+                        "x": 754,
                         "y": 540
                       },
                       {
@@ -2227,6 +2261,109 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "0de0848dbe3bdc3f7b648382143f9aa2405bf3ffb1f318ad67cd0bbdd3c941f3",
+      "name": "DoubleChevronArrowRight",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Double-Chevron-Arrow-Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Double-Chevron-Arrow-Right.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": true,
+      "italic": false,
+      "name": "km",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "100 km",
+      "font": "5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": true,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "250;172;0",
+        "outlineThickness": 10,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "100 km",
+        "font": "5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -2234,10 +2371,57 @@
     "children": [
       {
         "objectName": "cluj_alba"
+      },
+      {
+        "objectName": "DoubleChevronArrowRight"
+      },
+      {
+        "objectName": "km"
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "DoubleChevronArrowRight"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "7"
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "DoubleChevronArrowRight",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 200,
@@ -2308,6 +2492,10 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     }
   ]
 }
