@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.46331118245139813,
+    "zoomFactor": 0.5468750000000032,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -34,8 +34,8 @@
       "name": "SinaTren",
       "persistentUuid": "ab219864-6dde-47fe-a9a8-17095dd7fdec",
       "width": 1389,
-      "x": 134,
-      "y": 351,
+      "x": -53,
+      "y": 378,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -45,14 +45,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 301,
-      "keepRatio": true,
+      "height": 212,
       "layer": "",
       "name": "Locomotiva",
       "persistentUuid": "9265eef0-81f0-42cf-8a6d-b0e49bd403f2",
-      "width": 491,
-      "x": 228,
-      "y": 355,
+      "width": 316,
+      "x": 118,
+      "y": 468,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -62,82 +61,186 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 179,
-      "keepRatio": true,
+      "height": 145,
       "layer": "",
       "name": "RedWagon",
       "persistentUuid": "bff00cf9-8a5d-461f-9d67-c5e576933782",
-      "width": 352,
-      "x": 719,
-      "y": 476,
+      "width": 246,
+      "x": 425,
+      "y": 536,
       "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 136,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GreenWagon",
+      "persistentUuid": "86886625-cfd2-4171-8c12-cade7b28539a",
+      "width": 256,
+      "x": 655,
+      "y": 547,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 132,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BlueWagon",
+      "persistentUuid": "05e1c750-21ff-4289-94eb-d1eedca66ae3",
+      "width": 249,
+      "x": 902,
+      "y": 551,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 146,
+      "layer": "",
+      "name": "RedWagonDreptunghi",
+      "persistentUuid": "16bb36b8-31d0-4a1c-a42f-540b4b2a3dd1",
+      "width": 233,
+      "x": 428,
+      "y": 538,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 116,
+      "keepRatio": true,
+      "layer": "",
+      "name": "dreptunghi",
+      "persistentUuid": "54dfe2b9-4130-42b0-af51-c9f9bb7b8612",
+      "width": 167,
+      "x": 831,
+      "y": 166,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0.0949367088607595,
+      "height": 150,
+      "layer": "",
+      "name": "DoubleChevronArrowRight",
+      "persistentUuid": "e7a96efb-cce1-4710-9118-8786ada4beef",
+      "width": 150,
+      "x": 989,
+      "y": 115,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 136,
+      "layer": "",
+      "name": "GreenWagonTriunghi",
+      "persistentUuid": "1aa41824-70e6-4520-84fd-c9edce6e1804",
+      "width": 256,
+      "x": 655,
+      "y": 546,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 132,
+      "layer": "",
+      "name": "BlueWagonCerc",
+      "persistentUuid": "60f0fb21-e33c-40dd-a467-64bdb81787fa",
+      "width": 249,
+      "x": 903,
+      "y": 551,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "keepRatio": true,
+      "layer": "",
+      "name": "cerc",
+      "persistentUuid": "4d8a9286-d6c2-44bf-bd2c-67a09d6e4c96",
+      "width": 120,
+      "x": 333,
+      "y": 175,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 151,
+      "keepRatio": true,
+      "layer": "",
+      "name": "triunghi",
+      "persistentUuid": "75704873-c6d1-45b7-9985-f41f81826adb",
+      "width": 152,
+      "x": 559,
+      "y": 141,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 720,
+      "keepRatio": true,
+      "layer": "",
+      "name": "background",
+      "persistentUuid": "ea5f2ac6-f71c-4042-9461-5454106c2845",
+      "width": 1283,
+      "x": 2,
+      "y": -1,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     }
   ],
   "objects": [
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "NewSprite",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 13,
-                        "y": 15
-                      },
-                      {
-                        "x": 54,
-                        "y": 15
-                      },
-                      {
-                        "x": 54,
-                        "y": 48
-                      },
-                      {
-                        "x": 13,
-                        "y": 48
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
@@ -240,11 +343,11 @@
                         "y": 23
                       },
                       {
-                        "x": 137,
+                        "x": 134,
                         "y": 23
                       },
                       {
-                        "x": 137,
+                        "x": 134,
                         "y": 116
                       },
                       {
@@ -276,11 +379,11 @@
                         "y": 23
                       },
                       {
-                        "x": 137,
+                        "x": 134,
                         "y": 23
                       },
                       {
-                        "x": 137,
+                        "x": 134,
                         "y": 116
                       },
                       {
@@ -312,11 +415,11 @@
                         "y": 23
                       },
                       {
-                        "x": 137,
+                        "x": 134,
                         "y": 23
                       },
                       {
-                        "x": 137,
+                        "x": 134,
                         "y": 116
                       },
                       {
@@ -348,11 +451,11 @@
                         "y": 23
                       },
                       {
-                        "x": 137,
+                        "x": 134,
                         "y": 23
                       },
                       {
-                        "x": 137,
+                        "x": 134,
                         "y": 116
                       },
                       {
@@ -369,7 +472,7 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
+      "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "RedWagon",
       "type": "Sprite",
@@ -383,13 +486,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite6",
+                  "image": "RedWagon",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -406,26 +509,26 @@
                     [
                       {
                         "x": 0,
-                        "y": 7
+                        "y": 11.5
                       },
                       {
-                        "x": 109,
-                        "y": 7
+                        "x": 102.5,
+                        "y": 8
                       },
                       {
-                        "x": 109,
-                        "y": 67
+                        "x": 110,
+                        "y": 66
                       },
                       {
                         "x": 0,
-                        "y": 67
+                        "y": 66
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite7",
+                  "image": "RedWagon5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -442,26 +545,26 @@
                     [
                       {
                         "x": 0,
-                        "y": 7
+                        "y": 11.5
                       },
                       {
-                        "x": 109,
-                        "y": 7
+                        "x": 102.5,
+                        "y": 8
                       },
                       {
-                        "x": 109,
-                        "y": 67
+                        "x": 110,
+                        "y": 66
                       },
                       {
                         "x": 0,
-                        "y": 67
+                        "y": 66
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite8",
+                  "image": "RedWagon2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -478,26 +581,26 @@
                     [
                       {
                         "x": 0,
-                        "y": 7
+                        "y": 11.5
                       },
                       {
-                        "x": 109,
-                        "y": 7
+                        "x": 102.5,
+                        "y": 8
                       },
                       {
-                        "x": 109,
-                        "y": 67
+                        "x": 110,
+                        "y": 66
                       },
                       {
                         "x": 0,
-                        "y": 67
+                        "y": 66
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite9",
+                  "image": "RedWagon3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -514,19 +617,55 @@
                     [
                       {
                         "x": 0,
-                        "y": 7
+                        "y": 11.5
                       },
                       {
-                        "x": 109,
-                        "y": 7
+                        "x": 102.5,
+                        "y": 8
                       },
                       {
-                        "x": 109,
-                        "y": 67
+                        "x": 110,
+                        "y": 66
                       },
                       {
                         "x": 0,
-                        "y": 67
+                        "y": 66
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "RedWagon4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 102.5,
+                        "y": 8
+                      },
+                      {
+                        "x": 110,
+                        "y": 66
+                      },
+                      {
+                        "x": 0,
+                        "y": 66
                       }
                     ]
                   ]
@@ -552,7 +691,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -574,19 +713,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 4,
                         "y": 3
                       },
                       {
-                        "x": 114,
+                        "x": 112,
                         "y": 3
                       },
                       {
-                        "x": 114,
+                        "x": 112,
                         "y": 63
                       },
                       {
-                        "x": 0,
+                        "x": 4,
                         "y": 63
                       }
                     ]
@@ -610,19 +749,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 4,
                         "y": 3
                       },
                       {
-                        "x": 114,
+                        "x": 112,
                         "y": 3
                       },
                       {
-                        "x": 114,
+                        "x": 112,
                         "y": 63
                       },
                       {
-                        "x": 0,
+                        "x": 4,
                         "y": 63
                       }
                     ]
@@ -646,19 +785,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 4,
                         "y": 3
                       },
                       {
-                        "x": 114,
+                        "x": 112,
                         "y": 3
                       },
                       {
-                        "x": 114,
+                        "x": 112,
                         "y": 63
                       },
                       {
-                        "x": 0,
+                        "x": 4,
                         "y": 63
                       }
                     ]
@@ -682,19 +821,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 4,
                         "y": 3
                       },
                       {
-                        "x": 114,
+                        "x": 112,
                         "y": 3
                       },
                       {
-                        "x": 114,
+                        "x": 112,
                         "y": 63
                       },
                       {
-                        "x": 0,
+                        "x": 4,
                         "y": 63
                       }
                     ]
@@ -721,7 +860,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -743,7 +882,7 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 3,
                         "y": 2
                       },
                       {
@@ -755,7 +894,7 @@
                         "y": 62
                       },
                       {
-                        "x": 0,
+                        "x": 3,
                         "y": 62
                       }
                     ]
@@ -779,7 +918,7 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 3,
                         "y": 2
                       },
                       {
@@ -791,7 +930,7 @@
                         "y": 62
                       },
                       {
-                        "x": 0,
+                        "x": 3,
                         "y": 62
                       }
                     ]
@@ -815,7 +954,7 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 3,
                         "y": 2
                       },
                       {
@@ -827,7 +966,7 @@
                         "y": 62
                       },
                       {
-                        "x": 0,
+                        "x": 3,
                         "y": 62
                       }
                     ]
@@ -851,7 +990,7 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 3,
                         "y": 2
                       },
                       {
@@ -863,8 +1002,837 @@
                         "y": 62
                       },
                       {
-                        "x": 0,
+                        "x": 3,
                         "y": 62
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "RedWagonDreptunghi",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "RedWagonDreptunghi",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 43.5,
+                        "y": 31
+                      },
+                      {
+                        "x": 59,
+                        "y": 30.5
+                      },
+                      {
+                        "x": 59,
+                        "y": 37.5
+                      },
+                      {
+                        "x": 43,
+                        "y": 38
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 43.5,
+                        "y": 31
+                      },
+                      {
+                        "x": 59,
+                        "y": 30.5
+                      },
+                      {
+                        "x": 59,
+                        "y": 37.5
+                      },
+                      {
+                        "x": 43,
+                        "y": 38
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 43.5,
+                        "y": 31
+                      },
+                      {
+                        "x": 59,
+                        "y": 30.5
+                      },
+                      {
+                        "x": 59,
+                        "y": 37.5
+                      },
+                      {
+                        "x": 43,
+                        "y": 38
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 43.5,
+                        "y": 31
+                      },
+                      {
+                        "x": 59,
+                        "y": 30.5
+                      },
+                      {
+                        "x": 59,
+                        "y": 37.5
+                      },
+                      {
+                        "x": 43,
+                        "y": 38
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "dreptunghi",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "checkCollisionMask": false,
+          "name": "Draggable",
+          "type": "DraggableBehavior::Draggable"
+        }
+      ],
+      "animations": [
+        {
+          "name": "dreptunghi",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dreptunghi3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 21,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 42,
+                        "y": 32
+                      },
+                      {
+                        "x": 40.5,
+                        "y": 43
+                      },
+                      {
+                        "x": 21,
+                        "y": 42.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "0de0848dbe3bdc3f7b648382143f9aa2405bf3ffb1f318ad67cd0bbdd3c941f3",
+      "name": "DoubleChevronArrowRight",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Double-Chevron-Arrow-Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Double-Chevron-Arrow-Right.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "GreenWagonTriunghi",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "GreenWagonTriunghi",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "GreenWagonTriunghi",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 3
+                      },
+                      {
+                        "x": 112,
+                        "y": 3
+                      },
+                      {
+                        "x": 112,
+                        "y": 63
+                      },
+                      {
+                        "x": 4,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "GreenWagonTriunghi2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 3
+                      },
+                      {
+                        "x": 112,
+                        "y": 3
+                      },
+                      {
+                        "x": 112,
+                        "y": 63
+                      },
+                      {
+                        "x": 4,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "GreenWagonTriunghi3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 3
+                      },
+                      {
+                        "x": 112,
+                        "y": 3
+                      },
+                      {
+                        "x": 112,
+                        "y": 63
+                      },
+                      {
+                        "x": 4,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "GreenWagonTriunghi4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 3
+                      },
+                      {
+                        "x": 112,
+                        "y": 3
+                      },
+                      {
+                        "x": 112,
+                        "y": 63
+                      },
+                      {
+                        "x": 4,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "BlueWagonCerc",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "BlueWagonCerc",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "BlueWagonCerc5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 111,
+                        "y": 2
+                      },
+                      {
+                        "x": 111,
+                        "y": 62
+                      },
+                      {
+                        "x": 3,
+                        "y": 62
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "BlueWagonCerc6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 111,
+                        "y": 2
+                      },
+                      {
+                        "x": 111,
+                        "y": 62
+                      },
+                      {
+                        "x": 3,
+                        "y": 62
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "BlueWagonCerc7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 111,
+                        "y": 2
+                      },
+                      {
+                        "x": 111,
+                        "y": 62
+                      },
+                      {
+                        "x": 3,
+                        "y": 62
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "BlueWagonCerc8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 111,
+                        "y": 2
+                      },
+                      {
+                        "x": 111,
+                        "y": 62
+                      },
+                      {
+                        "x": 3,
+                        "y": 62
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "cerc",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "checkCollisionMask": false,
+          "name": "Draggable",
+          "type": "DraggableBehavior::Draggable"
+        }
+      ],
+      "animations": [
+        {
+          "name": "cerc",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cerc5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 22,
+                        "y": 20
+                      },
+                      {
+                        "x": 41.5,
+                        "y": 21
+                      },
+                      {
+                        "x": 41,
+                        "y": 36.5
+                      },
+                      {
+                        "x": 22,
+                        "y": 37
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "triunghi",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "checkCollisionMask": false,
+          "name": "Draggable",
+          "type": "DraggableBehavior::Draggable"
+        }
+      ],
+      "animations": [
+        {
+          "name": "triunghi",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "triunghi",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 12.5,
+                        "y": 19.5
+                      },
+                      {
+                        "x": 18.5,
+                        "y": 19
+                      },
+                      {
+                        "x": 19,
+                        "y": 22.5
+                      },
+                      {
+                        "x": 11.5,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "background",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cluj3.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1260,
+                        "y": 0
+                      },
+                      {
+                        "x": 1260,
+                        "y": 841
+                      },
+                      {
+                        "x": 0,
+                        "y": 841
                       }
                     ]
                   ]
@@ -880,7 +1848,10 @@
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "NewSprite"
+        "objectName": "dreptunghi"
+      },
+      {
+        "objectName": "triunghi"
       },
       {
         "objectName": "SinaTren"
@@ -892,14 +1863,303 @@
         "objectName": "RedWagon"
       },
       {
+        "objectName": "RedWagonDreptunghi"
+      },
+      {
         "objectName": "GreenWagon"
       },
       {
+        "objectName": "GreenWagonTriunghi"
+      },
+      {
         "objectName": "BlueWagon"
+      },
+      {
+        "objectName": "BlueWagonCerc"
+      },
+      {
+        "objectName": "cerc"
+      },
+      {
+        "objectName": "DoubleChevronArrowRight"
+      },
+      {
+        "objectName": "background"
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "RedWagon"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "GreenWagon"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "BlueWagon"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "DoubleChevronArrowRight"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "dreptunghi",
+            "RedWagonDreptunghi",
+            "",
+            "",
+            "no"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "RedWagonDreptunghi",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "dreptunghi",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "RedWagon",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "cerc",
+            "BlueWagonCerc",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "BlueWagonCerc",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "cerc",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "BlueWagon",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "triunghi",
+            "GreenWagonTriunghi",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "GreenWagonTriunghi",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "triunghi",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "GreenWagon",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Visible"
+          },
+          "parameters": [
+            "RedWagon"
+          ]
+        },
+        {
+          "type": {
+            "value": "Visible"
+          },
+          "parameters": [
+            "BlueWagon"
+          ]
+        },
+        {
+          "type": {
+            "value": "Visible"
+          },
+          "parameters": [
+            "GreenWagon"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "DoubleChevronArrowRight",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "DoubleChevronArrowRight",
+            "Left",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "MouseButtonPressed"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        },
+        {
+          "type": {
+            "value": "Visible"
+          },
+          "parameters": [
+            "DoubleChevronArrowRight"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"harta1\"",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 200,

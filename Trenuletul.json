@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "merge_la_gara",
   "gdVersion": {
     "build": 218,
     "major": 5,
@@ -141,7 +141,7 @@
         "alwaysLoaded": false,
         "file": "assets/Locomotiva.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Locomotiva.png\"}",
         "name": "Locomotiva",
         "smoothed": true,
         "userAdded": false
@@ -150,7 +150,7 @@
         "alwaysLoaded": false,
         "file": "assets/Locomotiva2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Locomotiva2.png\"}",
         "name": "Locomotiva2",
         "smoothed": true,
         "userAdded": false
@@ -159,7 +159,7 @@
         "alwaysLoaded": false,
         "file": "assets/Locomotiva3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Locomotiva3.png\"}",
         "name": "Locomotiva3",
         "smoothed": true,
         "userAdded": false
@@ -168,7 +168,7 @@
         "alwaysLoaded": false,
         "file": "assets/Locomotiva4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Locomotiva4.png\"}",
         "name": "Locomotiva4",
         "smoothed": true,
         "userAdded": false
@@ -177,7 +177,7 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite6.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite6.png\"}",
         "name": "NewSprite6",
         "smoothed": true,
         "userAdded": false
@@ -186,7 +186,7 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
         "name": "NewSprite7",
         "smoothed": true,
         "userAdded": false
@@ -195,7 +195,7 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite8.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite8.png\"}",
         "name": "NewSprite8",
         "smoothed": true,
         "userAdded": false
@@ -204,7 +204,7 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite9.png\"}",
         "name": "NewSprite9",
         "smoothed": true,
         "userAdded": false
@@ -249,7 +249,7 @@
         "alwaysLoaded": false,
         "file": "assets/BlueWagon.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/BlueWagon.png\"}",
         "name": "BlueWagon",
         "smoothed": true,
         "userAdded": false
@@ -258,7 +258,7 @@
         "alwaysLoaded": false,
         "file": "assets/BlueWagon2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/BlueWagon2.png\"}",
         "name": "BlueWagon2",
         "smoothed": true,
         "userAdded": false
@@ -267,7 +267,7 @@
         "alwaysLoaded": false,
         "file": "assets/BlueWagon3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/BlueWagon3.png\"}",
         "name": "BlueWagon3",
         "smoothed": true,
         "userAdded": false
@@ -276,7 +276,7 @@
         "alwaysLoaded": false,
         "file": "assets/BlueWagon4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/BlueWagon4.png\"}",
         "name": "BlueWagon4",
         "smoothed": true,
         "userAdded": false
@@ -2305,6 +2305,1718 @@
         "name": "NewSprite99",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/RedWagon.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/RedWagon.png\"}",
+        "name": "RedWagon",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/RedWagon2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/RedWagon2.png\"}",
+        "name": "RedWagon2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/RedWagon3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/RedWagon3.png\"}",
+        "name": "RedWagon3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/RedWagon4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/RedWagon4.png\"}",
+        "name": "RedWagon4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dreptunghi.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dreptunghi",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dreptunghi2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dreptunghi2.png\"}",
+        "name": "dreptunghi2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/RedWagon5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "RedWagon5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Double-Chevron-Arrow-Right.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Double-Chevron-Arrow-Right.png\",\"extension\":\".png\"}",
+        "name": "Double-Chevron-Arrow-Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Flat/c0ec0f84d4e5ffbb904544e45d9bcd424f7c9ba1c3866014f3548a8c99b8772f_Double-Chevron-Arrow-Right.png",
+          "name": "Double-Chevron-Arrow-Right.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grey Button With Shadow_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button With Shadow_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/eb4edad2c3c752116fd28898f6bf0ae8dd0ab73b5cca111dbbd1e541c92dc393_Grey Button With Shadow_Hovered.png",
+          "name": "Grey Button With Shadow_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grey Button With Shadow_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button With Shadow_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7a8f60c5db6936e591235ae6ef3eca1c856c61adcc8d2a059e4e408804ebc477_Grey Button With Shadow_Idle.png",
+          "name": "Grey Button With Shadow_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grey Button With Shadow_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button With Shadow_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/907400b52ad729d17d819ce65fcedcc7819a07bbf18d106029ef4e7fbfb14d42_Grey Button With Shadow_Pressed.png",
+          "name": "Grey Button With Shadow_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/CantoraOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "CantoraOne-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/05b0c1364a92b436b86ca819e66b63480d1bc2fb399f6c0cf8bffbf8199ccc2a_CantoraOne-Regular.ttf",
+          "name": "CantoraOne-Regular.ttf"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/GreenWagonTriunghi.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "GreenWagonTriunghi",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/GreenWagonTriunghi2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "GreenWagonTriunghi2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/GreenWagonTriunghi3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "GreenWagonTriunghi3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/GreenWagonTriunghi4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "GreenWagonTriunghi4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BlueWagonCerc.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BlueWagonCerc",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BlueWagonCerc2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BlueWagonCerc2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BlueWagonCerc3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BlueWagonCerc3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BlueWagonCerc4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BlueWagonCerc4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BlueWagonCerc5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BlueWagonCerc5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BlueWagonCerc6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BlueWagonCerc6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BlueWagonCerc7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BlueWagonCerc7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BlueWagonCerc8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BlueWagonCerc8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite100.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite100.png\"}",
+        "name": "NewSprite100",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cerc.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cerc",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cerc2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cerc2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cerc3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cerc3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cerc4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cerc4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cerc5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cerc5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dreptunghi3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dreptunghi3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite101.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite101",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/triunghi.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "triunghi",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "cluj.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "cluj.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "cluj2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "cluj2.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "cluj3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "cluj3.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite102.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite102",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cluj_alba60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cluj_alba60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Mini.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara61",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara69",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara70",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara71",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara72",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara73",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara75",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara76",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara77.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara77",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara78.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara78",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara79.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara79",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara80",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara81.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara81",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara82.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara82",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara83.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara83",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara84",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara85.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara85",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara86.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara86",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara87",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara88.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara88",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara89.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara89",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/merge_la_gara90.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "merge_la_gara90",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2327,10 +4039,23 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/cumpara_bilet"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/merge_la_gara"
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/draggablephysics"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    }
+  ],
   "externalLayouts": [],
   "externalSourceFiles": []
 }
