@@ -4265,6 +4265,56 @@
         "name": "NewSprite181",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "audio/Bine ai venit la tre.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\Bine ai venit la tre.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/Pune fiecare formă g.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\Pune fiecare formă g.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/Acum călătorim de la Cj la Alba.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\Acum călătorim de la Cj la Alba.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/Acum călătorim de la Alba la Brasov.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\Acum călătorim de la Alba la Brasov.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/Steagul României are.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\Steagul României are.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []

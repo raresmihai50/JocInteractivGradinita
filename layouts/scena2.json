@@ -984,9 +984,9 @@
       "effects": [],
       "behaviors": [
         {
-          "checkCollisionMask": true,
           "name": "Draggable",
-          "type": "DraggableBehavior::Draggable"
+          "type": "DraggableBehavior::Draggable",
+          "checkCollisionMask": true
         }
       ],
       "animations": [
@@ -1654,6 +1654,18 @@
           },
           "parameters": [
             "rosu"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "audio\\Steagul României are.mp3",
+            "",
+            "100",
+            "1"
           ]
         }
       ]

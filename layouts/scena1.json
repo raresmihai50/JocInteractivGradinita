@@ -1933,6 +1933,18 @@
           "parameters": [
             "DoubleChevronArrowRight"
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "audio\\Pune fiecare formă g.mp3",
+            "",
+            "100",
+            "1"
+          ]
         }
       ]
     },
