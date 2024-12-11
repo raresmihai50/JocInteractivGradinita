@@ -2944,19 +2944,22 @@
         },
         {
           "type": {
-            "value": "Wait"
+            "value": "PlaySound"
           },
           "parameters": [
-            "7"
+            "",
+            "audio\\Acum călătorim de la Alba la Brasov.mp3",
+            "",
+            "100",
+            "1"
           ]
         },
         {
           "type": {
-            "value": "Montre"
+            "value": "Wait"
           },
           "parameters": [
-            "DoubleChevronArrowRight",
-            ""
+            "7"
           ]
         }
       ]

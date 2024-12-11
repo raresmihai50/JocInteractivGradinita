@@ -3333,6 +3333,18 @@
       "actions": [
         {
           "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "audio\\Salut Acum ne îndrep.mp3",
+            "",
+            "100",
+            "1"
+          ]
+        },
+        {
+          "type": {
             "value": "Wait"
           },
           "parameters": [
