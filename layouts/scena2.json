@@ -763,20 +763,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 22,
-                        "y": 20
+                        "x": 17.5,
+                        "y": 15.5
                       },
                       {
-                        "x": 41.5,
-                        "y": 21
+                        "x": 46,
+                        "y": 17
                       },
                       {
-                        "x": 41,
-                        "y": 36.5
+                        "x": 44.5,
+                        "y": 47.5
                       },
                       {
-                        "x": 22,
-                        "y": 37
+                        "x": 16.5,
+                        "y": 44
                       }
                     ]
                   ]
@@ -950,20 +950,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 22,
-                        "y": 20
+                        "x": 16,
+                        "y": 16.5
                       },
                       {
-                        "x": 41.5,
-                        "y": 21
+                        "x": 51,
+                        "y": 17.5
                       },
                       {
-                        "x": 41,
-                        "y": 36.5
+                        "x": 45,
+                        "y": 47.5
                       },
                       {
-                        "x": 22,
-                        "y": 37
+                        "x": 15.5,
+                        "y": 45.5
                       }
                     ]
                   ]
@@ -1017,20 +1017,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 23.5,
-                        "y": 24
+                        "x": 16,
+                        "y": 14
                       },
                       {
-                        "x": 40,
-                        "y": 24.5
+                        "x": 48,
+                        "y": 15.5
                       },
                       {
-                        "x": 39,
-                        "y": 36.5
+                        "x": 47,
+                        "y": 47.5
                       },
                       {
-                        "x": 24,
-                        "y": 37
+                        "x": 16,
+                        "y": 46
                       }
                     ]
                   ]
@@ -1807,6 +1807,12 @@
           "parameters": [
             "rosu"
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -1817,6 +1823,18 @@
           "parameters": [
             "DoubleChevronArrowRight",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "audio\\Porneste trenul din gara.mp3",
+            "",
+            "100",
+            "1"
           ]
         }
       ]

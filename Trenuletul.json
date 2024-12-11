@@ -4315,6 +4315,26 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "audio/Salut Acum ne îndrep.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\Salut Acum ne îndrep.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/Porneste trenul din gara.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\Porneste trenul din gara.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []

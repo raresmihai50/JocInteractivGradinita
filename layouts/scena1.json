@@ -2112,6 +2112,12 @@
           "parameters": [
             "GreenWagon"
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -2122,6 +2128,18 @@
           "parameters": [
             "DoubleChevronArrowRight",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "audio\\Porneste trenul din gara.mp3",
+            "",
+            "100",
+            "1"
           ]
         }
       ]
