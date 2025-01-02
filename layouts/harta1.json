@@ -2404,6 +2404,18 @@
         },
         {
           "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "audio\\Acum călătorim de la Cj la Alba.mp3",
+            "",
+            "100",
+            "1"
+          ]
+        },
+        {
+          "type": {
             "value": "Wait"
           },
           "parameters": [
