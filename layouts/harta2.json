@@ -197,7 +197,7 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.1,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -2948,7 +2948,7 @@
           },
           "parameters": [
             "",
-            "audio\\Acum călătorim de la Alba la Brasov.mp3",
+            "audio\\alba_brasov.mp3",
             "",
             "100",
             "1"
@@ -2959,7 +2959,16 @@
             "value": "Wait"
           },
           "parameters": [
-            "7"
+            "10"
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "DoubleChevronArrowRight",
+            ""
           ]
         }
       ]
