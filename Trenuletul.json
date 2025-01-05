@@ -1,7 +1,7 @@
 {
   "firstLayout": "merge_la_gara",
   "gdVersion": {
-    "build": 220,
+    "build": 221,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -8595,6 +8595,106 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite182.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite182",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "sarpe.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sarpe.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pelican.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pelican.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "peste.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "peste.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tulcea.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "tulcea.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/background.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "background",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Play button.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Play button.png\",\"extension\":\".png\"}",
+        "name": "Play button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Light/3d2442653d81f2be9d054977ff8c1e86b56f1c6388a4d133d1f6e9074988a4bd_Play button.png",
+          "name": "Play button.png"
+        }
+      },
+      {
+        "file": "audio/tulcea_descriere.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\tulcea_descriere.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/ghicitoare.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\ghicitoare.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/raspuns_gresit.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\raspuns_gresit.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/raspuns_corect.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\raspuns_corect.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -8613,6 +8713,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/scena2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/scena6"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
