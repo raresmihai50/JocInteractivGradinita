@@ -77,7 +77,7 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.15,
+              "timeBetweenFrames": 0.13,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -3418,7 +3418,7 @@
           },
           "parameters": [
             "",
-            "audio\\Bine ai venit la tre.mp3",
+            "audio\\start2.mp3",
             "",
             "100",
             "1"
@@ -3429,7 +3429,7 @@
             "value": "Wait"
           },
           "parameters": [
-            "15"
+            "13"
           ]
         },
         {

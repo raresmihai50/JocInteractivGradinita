@@ -2322,7 +2322,7 @@
       {
         "file": "assets/dreptunghi3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dreptunghi3.png\"}",
         "name": "dreptunghi3",
         "smoothed": true,
         "userAdded": false
@@ -8695,6 +8695,2680 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Play button2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Play button",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "cerb.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cerb.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "lup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lup.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "vulpe.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "vulpe.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "urs.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "urs.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "brasov.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "brasov.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "audio/brasov_descriere.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\brasov_descriere.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/vulpe_ghicitoare.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\vulpe_ghicitoare.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite183.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite183",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite184.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite184",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite185.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite185",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "sticla.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sticla.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "hartie.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hartie.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "plastic.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "plastic.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bucuresti.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "bucuresti.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bucuresti2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "bucuresti2.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "audio/bucuresti_descriere.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\bucuresti_descriere.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "cerb2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cerb2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "fox.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fox.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "urs2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "urs2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "lup2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lup2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "peste2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "peste2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pelican2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pelican2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "sarpe2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sarpe2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "cal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cal.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "delfin.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "delfin.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "constanta.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "constanta.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "audio/constanta_descriere.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\constanta_descriere.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Book2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Book2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Items (160 assets)/PNG/66d267349a9167f0b6ca57a1186dee8604c15c5254e1695a42109217f687435e_Book2.png",
+          "name": "Book2.png"
+        }
+      },
+      {
+        "file": "assets/Numeral 1_Drop-shadowed.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Numeral 1_Drop-shadowed.png\",\"extension\":\".png\"}",
+        "name": "Numeral 1_Drop-shadowed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/9e1aa2870ffe0286ca137611431df992d94a91568f39392720f053f20c3c5ac9_Numeral 1_Drop-shadowed.png",
+          "name": "Numeral 1_Drop-shadowed.png"
+        }
+      },
+      {
+        "file": "assets/Numeral 1_Outlined.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Numeral 1_Outlined.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/9a2eba03d10690a7bbf73f6ba448bc23ea32771488d22235146e69ad0edd3698_Numeral 1_Outlined.png",
+          "name": "Numeral 1_Outlined.png"
+        }
+      },
+      {
+        "file": "assets/Numeral 2_Drop-shadowed.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Numeral 2_Drop-shadowed.png\",\"extension\":\".png\"}",
+        "name": "Numeral 2_Drop-shadowed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/618c89316ad2040e061c0dc07a613b91794914d29c4d1361c5b67bef4f5aac2b_Numeral 2_Drop-shadowed.png",
+          "name": "Numeral 2_Drop-shadowed.png"
+        }
+      },
+      {
+        "file": "assets/Numeral 2_Outlined.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Numeral 2_Outlined.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/2ce70b4c295e9e10b5e29e7d02454e3d99fadb10ecb0db5a860f431d88e21af2_Numeral 2_Outlined.png",
+          "name": "Numeral 2_Outlined.png"
+        }
+      },
+      {
+        "file": "assets/Numeral 3_Drop-shadowed.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Numeral 3_Drop-shadowed.png\",\"extension\":\".png\"}",
+        "name": "Numeral 3_Drop-shadowed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/8a7df49807a2496cde711e8c5025210dd4dc235918b899be03af22e92e11fa15_Numeral 3_Drop-shadowed.png",
+          "name": "Numeral 3_Drop-shadowed.png"
+        }
+      },
+      {
+        "file": "assets/Numeral 3_Outlined.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Numeral 3_Outlined.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/126b898cc1e483f0451214f0e11ce603b5022c2acf43522761bea93e8712ad6b_Numeral 3_Outlined.png",
+          "name": "Numeral 3_Outlined.png"
+        }
+      },
+      {
+        "file": "assets/Numeral 4_Drop-shadowed.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Numeral 4_Drop-shadowed.png\",\"extension\":\".png\"}",
+        "name": "Numeral 4_Drop-shadowed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/89a34bf25181cea619c50bfbdf6f5e5032219c3f14310bfa1f4f245e6a58440e_Numeral 4_Drop-shadowed.png",
+          "name": "Numeral 4_Drop-shadowed.png"
+        }
+      },
+      {
+        "file": "assets/Numeral 4_Outlined.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Numeral 4_Outlined.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/a618e382c3f1a46068272d1b095fee485730ad5487714954e9b9663f9fd536c6_Numeral 4_Outlined.png",
+          "name": "Numeral 4_Outlined.png"
+        }
+      },
+      {
+        "file": "iasi.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "iasi.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Drop-shadowed.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Drop-shadowed",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "audio/iasi_descriere.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\iasi_descriere.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "fier.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fier.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "aur.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aur.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "carbune.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carbune.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "cupru.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cupru.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "baia.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "baia.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "audio/baiamare_descriere.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\baiamare_descriere.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/ghicitoare_carbune.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\ghicitoare_carbune.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/cumpara_bilet.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cumpara_bilet",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "audio/cluj_descriere.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\cluj_descriere.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/alba_descriere.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\alba_descriere.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/start1.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\start1.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/start2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\start2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Start button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Start button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Light/0f3e4ba2cca8da6294335470d802b0aa66fc1c3616b4002ae453387e2c3c74ba_Start button.png",
+          "name": "Start button.png"
+        }
+      },
+      {
+        "file": "assets/Start button2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Start button",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "WhatsApp Image 2025-01-07 at 23.04.47.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "WhatsApp Image 2025-01-07 at 23.04.47.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final61",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final69",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final70",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final71",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final72",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final73",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final75",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final76",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final77.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final77",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final78.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final78",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final79.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final79",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final80",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final81.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final81",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final82.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final82",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final83.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final83",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final84",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final85.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final85",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final86.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final86",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final87",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final88.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final88",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final89.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final89",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final90.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final90",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/final91.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "final91",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite186.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite186",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite187.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite187",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite188.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite188",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite189.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite189",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite190.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite190",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite191.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite191",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite192.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite192",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite193.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite193",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite194.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite194",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite195.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite195",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite196.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite196",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite197.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite197",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite198.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite198",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite199.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite199",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite200.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite200",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite201.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite201",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite202.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite202",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite203.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite203",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite204.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite204",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite205.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite205",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite206.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite206",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite207.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite207",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite208.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite208",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite209.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite209",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite210.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite210",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite211.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite211",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite212.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite212",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite213.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite213",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite214.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite214",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite215.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite215",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite216.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite216",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite217.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite217",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite218.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite218",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite219.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite219",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite220.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite220",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite221.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite221",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite222.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite222",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite223.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite223",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite224.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite224",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite225.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite225",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite226.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite226",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite227.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite227",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite228.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite228",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite229.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite229",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite230.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite230",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite231.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite231",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite232.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite232",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite233.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite233",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite234.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite234",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite235.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite235",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite236.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite236",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite237.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite237",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite238.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite238",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite239.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite239",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite240.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite240",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite241.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite241",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite242.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite242",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite243.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite243",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite244.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite244",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia61",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia69",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia70",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia71",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia72",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia73",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia75",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia76",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia77.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia77",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia78.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia78",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia79.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia79",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia80",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia81.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia81",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia82.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia82",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia83.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia83",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia84",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia85.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia85",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia86.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia86",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia87",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia88.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia88",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia89.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia89",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia90.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia90",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia91.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia91",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia92.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia92",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia93.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia93",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia94.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia94",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia95.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia95",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia96.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia96",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia97.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia97",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia98.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia98",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia99.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia99",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia100.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia100",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia101.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia101",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia102.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia102",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia103.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia103",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia104.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia104",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia105.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia105",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia106.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia106",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia107.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia107",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia108.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia108",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia109.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia109",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia110.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia110",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia111.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia111",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia112.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia112",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia113.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia113",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia114.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia114",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia115.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia115",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia116.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia116",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia117.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia117",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/iasi_baia118.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "iasi_baia118",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dreptunghi4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dreptunghi4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "audio/baia_cluj.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\baia_cluj.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "audio/final.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio\\final.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -8708,6 +11382,18 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/merge_la_gara"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/cumpara_bilet"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/final"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/scena1"
     },
     {
@@ -8716,7 +11402,27 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/scena3"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/scena4"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/scena5"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/scena6"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/scena7"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/scena8"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -8748,11 +11454,7 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/cumpara_bilet"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/merge_la_gara"
+      "referenceTo": "/layouts/harta8"
     }
   ],
   "externalEvents": [],

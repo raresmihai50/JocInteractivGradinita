@@ -3005,7 +3005,18 @@
           ]
         }
       ],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"scena8\"",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [

@@ -167,14 +167,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 193,
+      "height": 240,
       "keepRatio": true,
       "layer": "",
       "name": "horse",
       "persistentUuid": "46ed1c2b-a82c-4b2e-957b-855e7ef17cd8",
-      "width": 236,
-      "x": 264,
-      "y": 367,
+      "width": 210,
+      "x": 317,
+      "y": 328,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -184,14 +184,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 96,
+      "height": 142,
       "keepRatio": true,
       "layer": "",
       "name": "sarpe",
       "persistentUuid": "2146f4ff-f31a-42b7-a55a-ad1f5ad90187",
-      "width": 206,
-      "x": 541,
-      "y": 461,
+      "width": 130,
+      "x": 589,
+      "y": 422,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -201,31 +201,31 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 160,
+      "height": 174,
       "keepRatio": true,
       "layer": "",
       "name": "pelican",
       "persistentUuid": "c45d9f64-6295-4f51-880c-9b49b675e2dc",
-      "width": 103,
-      "x": 851,
-      "y": 410,
+      "width": 129,
+      "x": 803,
+      "y": 398,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
-      "angle": 53,
+      "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 240,
+      "height": 148,
       "keepRatio": true,
       "layer": "",
       "name": "peste",
       "persistentUuid": "ddb06601-fe8f-437c-9c05-6c1d4ebf7083",
-      "width": 139,
-      "x": 1088,
-      "y": 391,
+      "width": 165,
+      "x": 1054,
+      "y": 438,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -1361,17 +1361,16 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "horse",
+          "name": "",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
-              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite182",
+                  "image": "cal.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1387,20 +1386,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 4,
-                        "y": 7
+                        "x": 0,
+                        "y": 3
                       },
                       {
-                        "x": 790,
-                        "y": 7
+                        "x": 548,
+                        "y": 3
                       },
                       {
-                        "x": 790,
-                        "y": 685
+                        "x": 548,
+                        "y": 798
                       },
                       {
-                        "x": 4,
-                        "y": 685
+                        "x": 0,
+                        "y": 798
                       }
                     ]
                   ]
@@ -1422,7 +1421,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "sarpe",
+          "name": "",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1431,7 +1430,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "sarpe.png",
+                  "image": "sarpe2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1451,16 +1450,16 @@
                         "y": 0
                       },
                       {
-                        "x": 2776,
+                        "x": 892,
                         "y": 0
                       },
                       {
-                        "x": 2776,
-                        "y": 1056
+                        "x": 892,
+                        "y": 1600
                       },
                       {
                         "x": 0,
-                        "y": 1056
+                        "y": 1600
                       }
                     ]
                   ]
@@ -1482,7 +1481,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "pelican",
+          "name": "",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1491,7 +1490,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "pelican.png",
+                  "image": "pelican2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1511,16 +1510,16 @@
                         "y": 0
                       },
                       {
-                        "x": 2032,
+                        "x": 3500,
                         "y": 0
                       },
                       {
-                        "x": 2032,
-                        "y": 2788
+                        "x": 3500,
+                        "y": 4775
                       },
                       {
                         "x": 0,
-                        "y": 2788
+                        "y": 4775
                       }
                     ]
                   ]
@@ -1542,7 +1541,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "peste",
+          "name": "",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1551,7 +1550,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "peste.png",
+                  "image": "peste2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1567,20 +1566,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 1
+                        "x": 27,
+                        "y": 388
                       },
                       {
-                        "x": 1914,
-                        "y": 1
+                        "x": 2032,
+                        "y": 388
                       },
                       {
-                        "x": 1914,
-                        "y": 2323
+                        "x": 2032,
+                        "y": 1771
                       },
                       {
-                        "x": 0,
-                        "y": 2323
+                        "x": 27,
+                        "y": 1771
                       }
                     ]
                   ]
@@ -1612,7 +1611,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Play button.png",
+                  "image": "Play button",
                   "points": [],
                   "originPoint": {
                     "name": "origine",

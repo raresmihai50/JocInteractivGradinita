@@ -40,6 +40,23 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 121,
+      "keepRatio": true,
+      "layer": "",
+      "name": "StartButton",
+      "persistentUuid": "0436d87d-42a0-4e9f-ae13-4db2612317b7",
+      "width": 286,
+      "x": 108,
+      "y": 521,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -60,7 +77,7 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.1,
+              "timeBetweenFrames": 0.15,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -3307,6 +3324,67 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "6d78e990fbb525c60e4122632d859f2f21b0f37f957742f737c38274c79cd4a4",
+      "name": "StartButton",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Start button",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Start button",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 108,
+                        "y": 0
+                      },
+                      {
+                        "x": 108,
+                        "y": 48
+                      },
+                      {
+                        "x": 0,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -3314,6 +3392,9 @@
     "children": [
       {
         "objectName": "merge_la_gara"
+      },
+      {
+        "objectName": "StartButton"
       }
     ]
   },
@@ -3337,7 +3418,7 @@
           },
           "parameters": [
             "",
-            "audio\\Salut Acum ne îndrep.mp3",
+            "audio\\start1.mp3",
             "",
             "100",
             "1"
@@ -3345,12 +3426,64 @@
         },
         {
           "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "StartButton"
+          ]
+        },
+        {
+          "type": {
             "value": "Wait"
           },
           "parameters": [
-            "10"
+            "15"
           ]
         },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "StartButton",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "StartButton",
+            "Left",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "MouseButtonPressed"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        },
+        {
+          "type": {
+            "value": "Visible"
+          },
+          "parameters": [
+            "StartButton"
+          ]
+        }
+      ],
+      "actions": [
         {
           "type": {
             "value": "Scene"
